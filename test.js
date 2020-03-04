@@ -1,6 +1,5 @@
 var aTag = document.createElement("div");
 aTag.innerHTML = "test";
-aTag.style.position = fixed;
 aTag.style.position = "fixed";
 aTag.style.height = "100vh";
 aTag.style.width = "100vw";
